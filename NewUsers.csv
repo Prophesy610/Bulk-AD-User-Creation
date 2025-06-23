@@ -1,0 +1,6 @@
+FirstName,LastName,Username,Password,OU,Department,Title,Email
+John,Doe,jdoe,Welcome123!,OU=Staff,DC=domain,DC=local,IT,Analyst,jdoe@domain.local
+Jane,Smith,jsmith,Welcome123!,OU=Staff,DC=domain,DC=local,HR,Manager,jsmith@domain.local
+Mike,Brown,mbrown,Welcome123!,OU=Staff,DC=domain,DC=local,Finance,Clerk,mbrown@domain.local
+Emily,Davis,edavis,Welcome123!,OU=Staff,DC=domain,DC=local,Marketing,Coordinator,edavis@domain.local
+Chris,Johnson,cjohnson,Welcome123!,OU=Staff,DC=domain,DC=local,IT,Engineer,cjohnson@domain.local
